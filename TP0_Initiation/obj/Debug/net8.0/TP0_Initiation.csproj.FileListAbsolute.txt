@@ -1,0 +1,14 @@
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\bin\Debug\net8.0\TP0_Initiation.exe
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\bin\Debug\net8.0\TP0_Initiation.deps.json
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\bin\Debug\net8.0\TP0_Initiation.runtimeconfig.json
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\bin\Debug\net8.0\TP0_Initiation.dll
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\bin\Debug\net8.0\TP0_Initiation.pdb
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.AssemblyInfoInputs.cache
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.AssemblyInfo.cs
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.csproj.CoreCompileInputs.cache
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.dll
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\refint\TP0_Initiation.dll
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.pdb
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\TP0_Initiation.genruntimeconfig.cache
+C:\Users\21655\source\repos\TP0_Initiation\TP0_Initiation\obj\Debug\net8.0\ref\TP0_Initiation.dll
